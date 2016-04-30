@@ -12,6 +12,7 @@
     "build": "brunch build --production"
   },
   "dependencies": {
+    "brunch": "^2.7.4",
     "less-brunch": "^2.6.0"
   },
   "devDependencies": {
