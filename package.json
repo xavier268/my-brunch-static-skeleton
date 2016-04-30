@@ -1,0 +1,29 @@
+{
+  "name": "brunch-app",
+  "description": "My own skeletton for building a brunch-based static website",
+  "author": "Xavier Gandillot",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "less-brunch": "^2.6.0"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.0.0",
+    "less": "^2.6.0",
+    "brunch-static": "^1.1.1",
+    "clean-css-brunch": "^2.0.0",
+    "css-brunch": "^2.0.0",
+    "html-brunch-static": "^1.2.1",
+    "jade-brunch-static": "^1.1.0",
+    "javascript-brunch": "^2.0.0",
+    "marked-brunch-static": "^1.1.0",
+    "uglify-js-brunch": "^2.0.0"
+  }
+}
